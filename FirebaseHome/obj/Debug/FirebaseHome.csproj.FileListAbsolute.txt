@@ -1,0 +1,17 @@
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\FirebaseHome.exe.config
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\FirebaseHome.exe
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\FirebaseHome.pdb
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\FireSharp.dll
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\RestSharp.dll
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\bin\Debug\RestSharp.xml
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\obj\Debug\FirebaseHome.csprojAssemblyReference.cache
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\obj\Debug\FirebaseHome.Form1.resources
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\obj\Debug\FirebaseHome.Properties.Resources.resources
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\obj\Debug\FirebaseHome.csproj.GenerateResource.cache
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\obj\Debug\FirebaseHome.csproj.CoreCompileInputs.cache
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\obj\Debug\FirebaseHome.csproj.CopyComplete
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\obj\Debug\FirebaseHome.exe
+C:\Users\eodbs\source\repos\Solution1\FirebaseHome\obj\Debug\FirebaseHome.pdb
